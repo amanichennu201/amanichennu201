@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning web applications
-- 💬 Ask me about github.com
+- 💬 Ask me about github
 - 📫 How to reach me: amanich@gmail.com
 - ⚡ Fun fact: I'm so cool.
 -->
